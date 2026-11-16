@@ -15,7 +15,7 @@
 </p>
 
 ---
-
+<!---
 ## Research Poster
 <a href="./poster.pdf"><strong>Conference Poster (PDF)</strong></a>
 
@@ -23,7 +23,7 @@
 View or download the research poster.
 
 ---
-
+-->
 ## Questions & Feedback
 [Leave Questions or Feedback](https://forms.gle/nuNfYbUKdtNcjh9z8)
 
