@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Bayesian Quantile Regression for Remaining Useful Lifetime with Censored Data
+  Bayesian Quantile Regression for Remaining Useful Lifetime <br>with Censored Data
 </h1>
 
 <p align="center">
