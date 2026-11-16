@@ -17,7 +17,7 @@
 ---
 
 ## Research Poster
-<a href="./poster.pdf"><strong>Conference Poster (PDF)</strong></a>
+<a href="pilkwon.github.io/poster.pdf"><strong>Conference Poster (PDF)</strong></a>
 
 
 View or download the research poster.
